@@ -1,6 +1,6 @@
 # LeetConnect
 
-**A freelancing platform based on 1337 ft_tranonscendence.**
+**A freelancing platform based on 1337 ft_transcendence.**
 
 [![Visit Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leetconnect/leetconnect)
 
